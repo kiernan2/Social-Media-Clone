@@ -18,19 +18,18 @@ No it doesn't actually do anything
 
 ## Setup/Installation Requirements
 
-* _This is a great place_
-* _to list setup instructions_
-* _in a simple_
-* _easy-to-understand_
-* _format_
+* _Clone repo_
+* _"npm i"_
+* _"npm run start"_
 
 ## Known Bugs
 
-* _Any known issues_
-* _should go here_
+* _N/a ..._
+* _it doesn't actually do anything_
 
 ## License
 
-* MIT _Year_
+* MIT _2024_
 
 ## Contact Information
+Kiernan1994@gmail.com
