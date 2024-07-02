@@ -1,0 +1,55 @@
+<mxfile host="65bd71144e">
+    <diagram id="U6cqAAibf5GgHFuO7uV2" name="Page-1">
+        <mxGraphModel dx="990" dy="653" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="App" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;container=0;fontColor=#f4fb37;" vertex="1" parent="1">
+                    <mxGeometry x="115" y="120" width="620" height="710" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="Header" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;container=0;fontColor=#f4fb37;" vertex="1" parent="1">
+                    <mxGeometry x="185.85714285714286" y="178" width="496" height="130.5" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="Body" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;container=0;fontColor=#f4fb37;" vertex="1" parent="1">
+                    <mxGeometry x="185.86" y="340" width="496" height="442.5" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="&lt;div style=&quot;background-color: rgb(31, 31, 31); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px;&quot;&gt;&lt;span style=&quot;&quot;&gt;ProfileBox&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;container=0;horizontal=1;verticalAlign=top;fontColor=#f4fb37;" vertex="1" parent="1">
+                    <mxGeometry x="221.29" y="370" width="425.14" height="110" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="MidBox" style="rounded=0;whiteSpace=wrap;html=1;container=0;verticalAlign=top;fontColor=#f4fb37;" vertex="1" parent="1">
+                    <mxGeometry x="221.29" y="500" width="425.14" height="110" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="SuggestionBox" style="rounded=0;whiteSpace=wrap;html=1;container=0;verticalAlign=top;fontColor=#f4fb37;" vertex="1" parent="1">
+                    <mxGeometry x="221.29" y="640" width="425.14" height="112.5" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="&lt;div style=&quot;background-color: rgb(31, 31, 31); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px;&quot;&gt;&lt;span style=&quot;&quot;&gt;Profile&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#f4fb37;" vertex="1" parent="1">
+                    <mxGeometry x="270" y="395" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="&lt;div style=&quot;background-color: rgb(31, 31, 31); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px;&quot;&gt;&lt;span style=&quot;&quot;&gt;TextBox&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#f4fb37;" vertex="1" parent="1">
+                    <mxGeometry x="470" y="395" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="&lt;div style=&quot;background-color: rgb(31, 31, 31); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px;&quot;&gt;&lt;span style=&quot;&quot;&gt;Search&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#f4fb37;" vertex="1" parent="1">
+                    <mxGeometry x="270" y="520" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="&lt;div style=&quot;background-color: rgb(31, 31, 31); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px;&quot;&gt;&lt;span style=&quot;&quot;&gt;Post&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#f4fb37;" vertex="1" parent="1">
+                    <mxGeometry x="470" y="520" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="&lt;div style=&quot;background-color: rgb(31, 31, 31); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px;&quot;&gt;&lt;span style=&quot;&quot;&gt;Post&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#f4fb37;" vertex="1" parent="1">
+                    <mxGeometry x="470" y="560" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" value="&lt;div style=&quot;background-color: rgb(31, 31, 31); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px;&quot;&gt;&lt;span style=&quot;&quot;&gt;Post&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#f4fb37;" vertex="1" parent="1">
+                    <mxGeometry x="550" y="520" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="17" value="&lt;div style=&quot;background-color: rgb(31, 31, 31); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;span style=&quot;&quot;&gt;Suggestion&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#f4fb37;" vertex="1" parent="1">
+                    <mxGeometry x="240" y="681.25" width="100" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="18" value="&lt;div style=&quot;background-color: rgb(31, 31, 31); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;span style=&quot;&quot;&gt;Suggestion&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#f4fb37;" vertex="1" parent="1">
+                    <mxGeometry x="375" y="690" width="100" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="19" value="&lt;div style=&quot;background-color: rgb(31, 31, 31); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;span style=&quot;&quot;&gt;Suggestion&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#f4fb37;" vertex="1" parent="1">
+                    <mxGeometry x="530" y="681.25" width="100" height="30" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

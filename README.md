@@ -22,6 +22,8 @@ No it doesn't actually do anything
 * _"npm i"_
 * _"npm run start"_
 
+[text](Diagram.drawio)
+
 ## Known Bugs
 
 * _N/a ..._
