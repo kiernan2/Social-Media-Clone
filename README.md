@@ -22,7 +22,7 @@ No it doesn't actually do anything
 * _"npm i"_
 * _"npm run start"_
 
-[text](Diagram.drawio)
+![Alt text](Diagram.drawio.png "a title")
 
 ## Known Bugs
 
