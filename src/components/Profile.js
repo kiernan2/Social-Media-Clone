@@ -1,6 +1,6 @@
 import React from "react";
 
-function Name(){
+function Profile(){
   return(
     <div class="container p-4 g-2 text-white bg-primary">
       <div class="row">
@@ -13,4 +13,4 @@ function Name(){
   )
 }
 
-export default Name;
+export default Profile;
